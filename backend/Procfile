@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ar_viro2_4512.wsgi:application
